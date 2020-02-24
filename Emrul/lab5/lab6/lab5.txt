@@ -1,0 +1,6 @@
+Name: emrul
+Email: emrulminhaz@gmai.com
+Gender: Male
+Degree: HSC
+Blood Group: B+
+Date of Birth: 2020-02-05
